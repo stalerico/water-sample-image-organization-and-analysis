@@ -1,7 +1,7 @@
 # water-sample-image-project
 Organize and classify water sample images
 
-Contributions made by @stalerico, DarbyCoder, and chlohal
+Contributions made by @stalerico (myself), @DarbyCoder, and @chlohal
 
 ## Image catalog
 
